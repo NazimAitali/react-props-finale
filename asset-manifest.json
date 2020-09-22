@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-props-finale/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-props-finale/static/js/main.3c585034.chunk.js",
+    "main.js.map": "/react-props-finale/static/js/main.3c585034.chunk.js.map",
+    "runtime-main.js": "/react-props-finale/static/js/runtime-main.662de223.js",
+    "runtime-main.js.map": "/react-props-finale/static/js/runtime-main.662de223.js.map",
+    "static/js/2.7ff579b4.chunk.js": "/react-props-finale/static/js/2.7ff579b4.chunk.js",
+    "static/js/2.7ff579b4.chunk.js.map": "/react-props-finale/static/js/2.7ff579b4.chunk.js.map",
+    "index.html": "/react-props-finale/index.html",
+    "precache-manifest.18a20731e832895d621b16b68e2ad476.js": "/react-props-finale/precache-manifest.18a20731e832895d621b16b68e2ad476.js",
+    "service-worker.js": "/react-props-finale/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-props-finale/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7ff579b4.chunk.js.LICENSE.txt": "/react-props-finale/static/js/2.7ff579b4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-props-finale/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.662de223.js",
+    "static/js/2.7ff579b4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3c585034.chunk.js"
+  ]
+}
